@@ -1,0 +1,2 @@
+Explained variance ratios (2 comps): [0.35749925 0.19209251]
+Total explained (2 comps): 0.5496
