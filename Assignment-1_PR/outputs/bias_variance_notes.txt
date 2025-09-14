@@ -1,5 +1,0 @@
-
-Bias-Variance notes (short):
-- Logistic Regression tends to have lower variance and can be biased if model is not flexible enough to separate classes.
-- k-NN with k small (e.g., 1) -> low bias, high variance; with larger k -> higher bias, lower variance.
-- PCA reduces dimensionality and may reduce variance (helps with overfitting) but may increase bias if informative features are discarded.
